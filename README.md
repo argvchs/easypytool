@@ -1,6 +1,6 @@
 # EasyPYTool
 
-**EasyPYTool** 是一个 **Windows** 上简单 & 轻量级的 Python 环境配置工具
+[EasyPYTool](https://github.com/argvchs/easypytool) 是一个 **Windows** 上简单 & 轻量级的 Python 环境配置工具
 
 ~~毕竟那些用 Linux 的**神犇**绝对能自己处理好这些环境配置的~~
 
