@@ -1,7 +1,5 @@
-@echo off
-md packages
+mkdir -p packages
 cd packages
+rm -rf source
 pip freeze > requirements.txt
-rd /s /q source
 pip download -d source -r requirements.txt
-@echo on
