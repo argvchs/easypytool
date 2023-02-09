@@ -16,10 +16,10 @@
 
     导入 PIP 库
 
--   `clear.sh`
-
-    清理导出的 PIP 包
-
 -   `setup.sh`
 
-    安装 Python
+    下载 Python 安装文件
+
+-   `clear.sh`
+
+    清理导出的 PIP 包和安装文件
