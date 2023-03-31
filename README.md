@@ -2,7 +2,7 @@
 
 [EasyPyTool](https://github.com/argvchs/easypytool) 是一个简单的 Python 环境配置工具
 
-## 文件
+以下是文件解释
 
 -   `config.sh`
 
